@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyson Lind (@tysonlind), a product engineer turned web developer!
 - 👀 I’m interested in opportunities in web development
-- 🌱 I’m currently learning PYTHON, FLASK, NODE.JS, REACT.JS, JAVASCRIPT, HTML, CSS, and SQL
+- 🌱 I’m currently learning NODE.JS, REACT.JS, JAVASCRIPT, and SQL
 - 💞️ I’m looking to collaborate on interesting web projects
 - 📫 How to reach me: tysonfloydlind@gmail.com (subject:Github collaboration)
 
